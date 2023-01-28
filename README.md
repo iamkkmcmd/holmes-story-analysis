@@ -21,7 +21,7 @@ Another objective of this project is to uncover the facts present in the stories
 Finally, we will be building a model for predicting the rating of the stories. This will provide a deeper understanding of the stories as a whole and how they relate to one another. Overall, this project aims to provide a comprehensive analysis of the Sherlock Holmes short stories and enhance our understanding of the beloved literary character and his stories.
 
 ##  :file_folder: File Structure
-- **Data Source: ** [https://www.kaggle.com/idevji1/sherlock-holmes-stories](https://www.kaggle.com/idevji1/sherlock-holmes-stories)
+- **Data Source**: [https://www.kaggle.com/idevji1/sherlock-holmes-stories](https://www.kaggle.com/idevji1/sherlock-holmes-stories)
 
 File structure of the project folder is given below. Folder names are self explanatory.
 
